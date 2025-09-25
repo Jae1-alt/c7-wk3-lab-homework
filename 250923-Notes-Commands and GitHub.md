@@ -164,6 +164,10 @@ This is the fundamental lifecycle for making a change and publishing it to GitHu
 6.  `git push -u origin main`
 
       * **Action:** Pushes your committed changes from your local `main` branch up to the `origin` remote on GitHub.
+      
+7. **`git status`** 
+
+	*  **Action:** Check the status of your local changes. You'll see which files are modified and untracked.
 
 -----
 
