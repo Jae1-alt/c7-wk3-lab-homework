@@ -80,13 +80,8 @@ rm: use --no-preserve-root to override this failsafe
 
 This `--no-preserve-root` flag is a safety mechanism that forces you to explicitly state that you are aware you are about to do something irreversible.
 
-Of course. Here is a summary of our conversation about the root and home directories, formatted as bullet points for your notes.
-
----
-
-Of course. That is a great set of notes covering the fundamentals. Here is that information, proofread and reformatted into a clear, instructive guide with some additional context.
-
 -----
+
 
 ##  Initial Git Configuration
 
